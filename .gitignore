@@ -1,0 +1,12 @@
+node_modules/
+backend/node_modules/
+.env
+
+*.h5
+*.pkl
+*.model
+*.zip
+*.csv
+
+dist/
+build/
